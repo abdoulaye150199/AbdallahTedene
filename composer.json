@@ -1,0 +1,16 @@
+{
+    "name": "abdoulaye/abdallah-tedene",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Abdoulaye\\AbdallahTedene\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "diallolaye01",
+            "email": "layediallo0115@gmail.com"
+        }
+    ],
+    "require": {}
+}
